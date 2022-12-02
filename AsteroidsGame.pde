@@ -2,7 +2,7 @@
 Spaceship Kat = new Spaceship();
  Star[] nighty = new Star[1000];
  Asteroid Lily = new Asteroid();
- ArrayList <Asteroid> Ast = new ArrayList <Asteroid>(20);
+ ArrayList <Asteroid> Ast = new ArrayList <Asteroid>();
 
 public void setup() 
 { size(1000,900);
